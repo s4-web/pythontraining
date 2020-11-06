@@ -1,5 +1,5 @@
-﻿Name,Grade,ID
-Kevin,A,U001
-John,B,U002
-Matt,A,U003
-Dan,A,U004
+﻿Name,Grade,Score,ID
+Kevin,A,99,U001
+John,B,80,U002
+Matt,A,92,U003
+Dan,A,100,U004
